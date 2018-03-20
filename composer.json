@@ -14,6 +14,7 @@
     "composer/installers": "^1.0.20",
     "cweagans/composer-patches": "^1.0",
     "drupal-composer/drupal-scaffold": "^2.0.1",
+    "drupal/address": "~1.0",
     "drupal/config_direct_save": "^1.0",
     "drupal/config_installer": "^1.0",
     "drupal/console": "^1",
@@ -21,7 +22,13 @@
     "drupal/simple_block": "^1.0@beta",
     "drush/drush": "~8",
     "rvtraveller/qs-composer-installer": "^1.1",
-    "webflo/drupal-core-strict": "^8"
+    "webflo/drupal-core-strict": "^8",
+    "willdurand/geocoder": "^3.3",
+    "php-http/guzzle6-adapter": "^1.1",
+    "php-http/message": "^1.0",
+    "drupal/styled_google_map": "^1.2",
+    "drupal/geofield_map": "^1.44",
+    "drupal/leaflet": "^1.0@beta"
   },
   "require-dev": {
     "mikey179/vfsstream": "^1.2",
